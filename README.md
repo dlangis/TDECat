@@ -24,7 +24,7 @@ iii) In the X-ray subsection we present the available data for our main catalogu
 
 Section 3: Spectroscopy
 
-The optical spectra we have included in this section were all taken from either the available spectra on the Transient Name Server (TNS; https://www.wis-tns.org/) or from the Weizmann Interactive Supernova Data Repository (WISeREP; https://www.wiserep.org/; Yaron & Gal-Yam 2012). For some TDEs the spectra are available in past studies that are referenced in Sect. 3.4 of Langis et al. 2025.
+The optical spectra we have included in this section were all taken from either the available spectra on the Transient Name Server (TNS; https://www.wis-tns.org/) or from the Weizmann Interactive Supernova Data Repository (WISeREP; https://www.wiserep.org/; Yaron & Gal-Yam 2012). For some TDEs the spectra are available in past studies that are referenced in Sect. 3.4 of Langis et al. 2025. In this section we also include a .csv file (TDE_catalogue_all_spectral_class.csv), where we outline all the different TDE spectral class for each object, as well as their corresponding reference.
 
 #-----------------------------------------------------------------------------------------------------------------------#
 
@@ -40,6 +40,6 @@ In the section we present TDE candidates have strong indications of being TDEs, 
 
 #-----------------------------------------------------------------------------------------------------------------------#
 
-To acknowledge TDECat, please cite Langis et al. 2025. 
+To acknowledge TDECat, please cite Langis et al. 2025 in your publications. 
 
  TDECat © 2025 is licensed under CC BY-ND 4.0 
