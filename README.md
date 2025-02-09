@@ -36,7 +36,7 @@ We present a python app that runs locally, displaying the information included i
 
 Section 5: Honorable Mentions
 
-In the section we present TDE candidates have strong indications of being TDEs, however another event class (e.g. AGN, SN) cannot be excluded or there are no available spectra from the time of the flare. These sources are included in .csv file named honorable_mentions.csv.
+In the section we present TDE candidates have strong indications of being TDEs, however another event class (e.g. AGN, SN) cannot be excluded or there are no available spectra from the time of the flare. These sources are included in a pdf file named Honourable_Mentsions_Table.pdf.
 
 #-----------------------------------------------------------------------------------------------------------------------#
 
