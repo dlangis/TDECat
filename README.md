@@ -24,13 +24,13 @@ iii) In the X-ray subsection we present the available data for our main catalogu
 
 Section 3: Spectroscopy
 
-The optical spectra we have included in this section were all taken from either the available spectra on the Transient Name Server (TNS; https://www.wis-tns.org/) or from the Weizmann Interactive Supernova Data Repository (WISeREP; https://www.wiserep.org/; Yaron & Gal-Yam 2012). For some TDEs the spectra are available in past studies that are referenced in Sect. 3.4 of Langis et al. 2025. In this section we also include a .csv file (TDE_catalogue_all_spectral_class.csv), where we outline all the different TDE spectral class for each object, as well as their corresponding reference.
+The optical spectra we have included in this section were all taken from either the available spectra on the Transient Name Server (TNS; https://www.wis-tns.org/) or from the Weizmann Interactive Supernova Data Repository (WISeREP; https://www.wiserep.org/; Yaron & Gal-Yam 2012). For some TDEs the spectra are available in past studies that are referenced in Sect. 3.4 of Langis et al. 2025. In this section we also include a .csv file (spectral_classes.csv), where we outline all the different TDE spectral class for each object, as well as their corresponding reference.
 
 #-----------------------------------------------------------------------------------------------------------------------#
 
 Section 4: App
 
-We present a python app that runs locally, displaying the information included in TDECat.csv. It also plots the different waveband light curves and spectra for the TDEs in the sample. For more information on how to operate it, select the App section and read README_APP.txt.
+We present a python app that runs locally, displaying the information included in TDE_catalogue_all.csv. It also plots the different waveband light curves and spectra for the TDEs in the sample. For more information on how to operate it, select the App section and read README_APP.txt.
 
 #-----------------------------------------------------------------------------------------------------------------------#
 
