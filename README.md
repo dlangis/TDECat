@@ -9,7 +9,7 @@ Below we outline the structure of this repository, as well as a quick overview o
 
 Section 1: Main TDE Catalogue
 
-In this section we present the TDECat sources, along with their coordinates and other information, through the TDECat.csv file.
+In this section we present the TDECat sources, along with their coordinates and other information, through the TDE_catalogue_all.csv file.
 
 #-----------------------------------------------------------------------------------------------------------------------#
 
