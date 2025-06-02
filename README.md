@@ -7,13 +7,13 @@ Below we outline the structure of this repository, as well as a give quick overv
 
 #-----------------------------------------------------------------------------------------------------------------------#
 
-Section 1: Main TDE Catalogue
+## Section 1: Main TDE Catalogue
 
 In this section we present the TDECat sources, along with their coordinates and other information through the TDE_catalogue_all.csv file.
 
 #-----------------------------------------------------------------------------------------------------------------------#
 
-Section 2: Photometry
+## Section 2: Photometry
 
 This section is split into 3 subsections: Optical and Infrared, UVOT and X-ray. 
 i) In the Optical and Infrared subsection we include all the publicly available photometry, collected mainly using the Black Hole Target Observation Manager (BHTom; https://bh-tom2.astrolabs.pl). 
@@ -24,22 +24,24 @@ For more details, please read Sect. 3 of Langis et al. 2025.
 
 #-----------------------------------------------------------------------------------------------------------------------#
 
-Section 3: Spectroscopy
+## Section 3: Spectroscopy
 
 The optical spectra in this section were all taken from either the Transient Name Server (TNS; https://www.wis-tns.org/) or from the Weizmann Interactive Supernova Data Repository (WISeREP; https://www.wiserep.org/; Yaron & Gal-Yam 2012). For some TDEs, the spectra are available in past studies that are referenced in Sect. 3.4 of Langis et al. 2025. In this section we also include a .csv file (spectral_classes.csv), where we outline all the different TDE spectral classification of each object, as well as their corresponding reference.
 
 #-----------------------------------------------------------------------------------------------------------------------#
 
-Section 4: App
+## Section 4: App
 
 We present a python app that runs locally, displaying the information included in TDE_catalogue_all.csv. It also plots the different waveband light curves and spectra for the TDEs in the sample. For more information on how to operate it, select the App section and read README_APP.txt.
 
 #-----------------------------------------------------------------------------------------------------------------------#
 
-Section 5: Honorable Mentions
+## Section 5: Honorable Mentions
 
 In this section we present TDE candidates that have strong indications of being TDEs; however, either another event class (e.g. AGN, SN) cannot be excluded or there are no available spectra from the time of the flare. These sources are included in a pdf file named Honourable_Mentsions_Table.pdf.
 
 #-----------------------------------------------------------------------------------------------------------------------#
+
+## Acknowledging TDECat
 
 To acknowledge TDECat, please cite Langis et al. 2025 in your work. 
