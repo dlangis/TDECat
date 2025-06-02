@@ -1,5 +1,8 @@
 # TDECat
 ![My Image](TDECat2.png)
+
+#-----------------------------------------------------------------------------------------------------------------------#
+
 This is a supplementary repository for the Tidal Disruption Event (TDE) catalogue (TDECat hereafter) presented in Langis et al. 2025 (in review).
 We have collected publicly available multi-wavelength photometry and optical spectroscopy.
 TDECat can either be accessed by the different sections (read below for more details) or by the app (App section).
