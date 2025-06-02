@@ -1,0 +1,2 @@
+"TDE_name","mjd_start","mjd_stop","inst","src_flux","src_flux_errinf","src_flux_errsup","src_flux_UL","src_flux_SNR","src_sign","temp_bb","temp_bb_errinf","temp_bb_errsup","flux_fit_bb","flux_fit_bb_errinf","flux_fit_bb_errsup","chi2_bb","AIC_bb","gamma_pl","gamma_pl_errinf","gamma_pl_errsup","flux_fit_pl","flux_fit_pl_errinf","flux_fit_pl_errsup","chi2_pl","AIC_pl","flux_fit","flux_fit_errinf","flux_fit_errsup","best_model"
+"AT_2021qxv",58829,59011,"erass",,,,,,,,,,,,,,,,,,,,,,,,,,""

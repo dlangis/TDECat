@@ -1,0 +1,6 @@
+"TDE_name","mjd_start","mjd_stop","inst","src_flux","src_flux_errinf","src_flux_errsup","src_flux_UL","src_flux_SNR","src_sign","temp_bb","temp_bb_errinf","temp_bb_errsup","flux_fit_bb","flux_fit_bb_errinf","flux_fit_bb_errsup","chi2_bb","AIC_bb","gamma_pl","gamma_pl_errinf","gamma_pl_errsup","flux_fit_pl","flux_fit_pl_errinf","flux_fit_pl_errsup","chi2_pl","AIC_pl","flux_fit","flux_fit_errinf","flux_fit_errsup","best_model"
+"AT_2021utq",59468.4723326602,59468.4723326602,"xrt",5.125e-15,2.7e-14,2.7e-14,1.892e-13,0.189814814814815,1.31232149272642,,,,,,,,,,,,,,,,,,,,""
+"AT_2021utq",59473.513971651,59473.513971651,"xrt",3.487e-14,3.944e-14,3.944e-14,2.279e-13,0.883977900552486,1.92904520635276,,,,,,,,,,,,,,,,,,,,""
+"AT_2021utq",59478.752573575,59478.752573575,"xrt",0,2.792e-14,2.792e-14,1.501e-13,0,0.214575037077065,,,,,,,,,,,,,,,,,,,,""
+"AT_2021utq",60432.9845342246,60432.9845342246,"xrt",2.339e-14,8.91e-14,8.91e-14,5.116e-13,0.2625,1.23550797518849,,,,,,,,,,,,,,,,,,,,""
+"AT_2021utq",60437.1254976843,60437.1254976843,"xrt",0,2.829e-14,2.829e-14,1.669e-13,0,0.456735851966013,,,,,,,,,,,,,,,,,,,,""
