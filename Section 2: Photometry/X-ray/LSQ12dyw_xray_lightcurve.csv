@@ -1,0 +1,3 @@
+"TDE_name","mjd_start","mjd_stop","inst","src_flux","src_flux_errinf","src_flux_errsup","src_flux_UL","src_flux_SNR","src_sign","temp_bb","temp_bb_errinf","temp_bb_errsup","flux_fit_bb","flux_fit_bb_errinf","flux_fit_bb_errsup","chi2_bb","AIC_bb","gamma_pl","gamma_pl_errinf","gamma_pl_errsup","flux_fit_pl","flux_fit_pl_errinf","flux_fit_pl_errsup","chi2_pl","AIC_pl","flux_fit","flux_fit_errinf","flux_fit_errsup","best_model"
+"LSQ12dyw",56167.4497104732,56167.4497104732,"xrt",8.331e-14,7.497e-14,7.497e-14,5.019e-13,1.11111111111111,2.65291210657163,,,,,,,,,,,,,,,,,,,,""
+"LSQ12dyw",56168.3774137628,56168.3774137628,"xrt",0,2.418e-14,2.418e-14,3.566e-13,0,0.595410968089053,,,,,,,,,,,,,,,,,,,,""
