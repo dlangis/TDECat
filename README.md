@@ -20,7 +20,7 @@ In this section we present the TDECat sources, along with their coordinates and 
 
 This section is split into 3 subsections: Optical and Infrared, UVOT and X-ray. 
 i) In the Optical and Infrared subsection we include all the publicly available photometry, collected mainly using the Black Hole Target Observation Manager (BHTom; https://bh-tom2.astrolabs.pl). 
-ii) In the UVOT subsection we present the data collected through the Swift Ultraviolet and Optical Telescope (UVOT) (Roming et al. 2005).
+ii) In the UVOT subsection we present the data collected through the Swift Ultraviolet and Optical Telescope (UVOT; Roming et al. 2005).
 iii) In the X-ray subsection we present the available data for our main catalogue sample in the archives of Swift, Chandra and XMM-Newton missions. In addition, we looked for X-ray counterparts to TDE sources in the 13th data release of the fourth XMM-Newton serendipitous source catalogue (4XMM-DR13, Webb et al. 2020) and eROSITA main catalogue (eRASS1, Merloni et al. 2024). More information about the data reduction process can be found in Appendix B of Langis et al. 2025.
 
 For more details, please read Sect. 3 of Langis et al. 2025.
