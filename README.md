@@ -48,4 +48,5 @@ In this section we present TDE candidates that have strong indications of being 
 ## Acknowledging TDECat
 
 To acknowledge TDECat, please cite Langis et al. 2025 in your work. 
+
 <a href="https://creativecommons.org">TDECat</a> © 2025 by <a href="https://creativecommons.org">Dimitrios Alkinoos Langis</a> is licensed under <a href="https://creativecommons.org/licenses/by-nc/4.0/">Creative Commons Attribution-NonCommercial 4.0 International</a><img src="https://mirrors.creativecommons.org/presskit/icons/cc.svg" alt="" style="max-width: 1em;max-height:1em;margin-left: .2em;"><img src="https://mirrors.creativecommons.org/presskit/icons/by.svg" alt="" style="max-width: 1em;max-height:1em;margin-left: .2em;"><img src="https://mirrors.creativecommons.org/presskit/icons/nc.svg" alt="" style="max-width: 1em;max-height:1em;margin-left: .2em;">
