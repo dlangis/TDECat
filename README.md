@@ -3,7 +3,7 @@
 
 #-----------------------------------------------------------------------------------------------------------------------#
 
-This is a supplementary repository for the Tidal Disruption Event (TDE) catalogue (TDECat hereafter) presented in Langis et al. 2025 (in review).
+This is a supplementary repository for the Tidal Disruption Event (TDE) catalogue (TDECat hereafter) presented in Langis et al. 2026.
 We have collected publicly available multi-wavelength photometry and optical spectroscopy.
 TDECat can either be accessed by the different sections (read below for more details) or by the app (App section).
 Below we outline the structure of this repository, as well as a give quick overview of each section.
@@ -23,13 +23,13 @@ i) In the Optical and Infrared subsection we include all the publicly available 
 ii) In the UVOT subsection we present the data collected through the Swift Ultraviolet and Optical Telescope (UVOT; Roming et al. 2005).
 iii) In the X-ray subsection we present the available data for our main catalogue sample in the archives of Swift, Chandra and XMM-Newton missions. In addition, we looked for X-ray counterparts to TDE sources in the 13th data release of the fourth XMM-Newton serendipitous source catalogue (4XMM-DR13, Webb et al. 2020) and eROSITA main catalogue (eRASS1, Merloni et al. 2024). More information about the data reduction process can be found in Appendix B of Langis et al. 2025.
 
-For more details, please read Sect. 3 of Langis et al. 2025.
+For more details, please read Sect. 3 of Langis et al. 2026.
 
 #-----------------------------------------------------------------------------------------------------------------------#
 
 ## Section 3: Spectroscopy
 
-The optical spectra in this section were all taken from either the Transient Name Server (TNS; https://www.wis-tns.org/) or from the Weizmann Interactive Supernova Data Repository (WISeREP; https://www.wiserep.org/; Yaron & Gal-Yam 2012). For some TDEs, the spectra are available in past studies that are referenced in Sect. 3.4 of Langis et al. 2025. In this section we also include a .csv file (spectral_classes.csv), where we outline all the different TDE spectral classification of each object, as well as their corresponding reference.
+The optical spectra in this section were all taken from either the Transient Name Server (TNS; https://www.wis-tns.org/) or from the Weizmann Interactive Supernova Data Repository (WISeREP; https://www.wiserep.org/; Yaron & Gal-Yam 2012). For some TDEs, the spectra are available in past studies that are referenced in Sect. 3.4 of Langis et al. 2026. In this section we also include a .csv file (spectral_classes.csv), where we outline all the different TDE spectral classification of each object, as well as their corresponding reference.
 
 #-----------------------------------------------------------------------------------------------------------------------#
 
@@ -47,6 +47,6 @@ In this section we present TDE candidates that have strong indications of being 
 
 ## Acknowledging TDECat
 
-To acknowledge TDECat, please cite Langis et al. 2025 in your work. 
+To acknowledge TDECat, please cite Langis et al. 2026 in your work (https://ui.adsabs.harvard.edu/abs/2026A%26A...707A.171L/abstract). 
 
 <a href="https://creativecommons.org">TDECat</a> © 2025 by <a href="https://creativecommons.org">Dimitrios Alkinoos Langis</a> is licensed under <a href="https://creativecommons.org/licenses/by-nc/4.0/">Creative Commons Attribution-NonCommercial 4.0 International</a><img src="https://mirrors.creativecommons.org/presskit/icons/cc.svg" alt="" style="max-width: 1em;max-height:1em;margin-left: .2em;"><img src="https://mirrors.creativecommons.org/presskit/icons/by.svg" alt="" style="max-width: 1em;max-height:1em;margin-left: .2em;"><img src="https://mirrors.creativecommons.org/presskit/icons/nc.svg" alt="" style="max-width: 1em;max-height:1em;margin-left: .2em;">
